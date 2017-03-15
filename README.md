@@ -11,3 +11,9 @@ Python 3.5及以上 (建议安装[Anaconda](https://www.continuum.io/downloads/)
 - Theano
 - gensim
 - jieba
+
+
+### 欢迎大家fork, 点击右上角star！
+
+
+![](others/banner.jpg)
