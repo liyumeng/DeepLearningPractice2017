@@ -13,7 +13,7 @@ Python 3.5及以上 (建议安装[Anaconda](https://www.continuum.io/downloads/)
 - jieba
 
 
-### 欢迎大家fork, 点击右上角star！
+#### 欢迎大家fork, 点击右上角star！
 
 
 ![](others/banner.jpg)
