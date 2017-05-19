@@ -1,10 +1,11 @@
-# 如何在Keras框架下进行多GPU并行
+# 濡備綍鍦↘eras妗嗘灦涓嬭繘琛屽GPU骞惰
 
-keras需要使用tensorflow作为backend
+keras闇�瑕佷娇鐢╰ensorflow浣滀负backend
 
-引用本文件夹`keras_extra.py中`的`make_parallel`函数
+寮曠敤鏈枃浠跺す`keras_extra.py涓璥鐨刞make_parallel`鍑芥暟
 
 ```
+from keras_extra import make_parallel
 # use it like follows
 model=Model(inputs=inputs,outputs=outputs)
 model=make_parallel(model,2)  # this line is important
